@@ -143,7 +143,7 @@ export default function Home() {
                 Enter any piano piece and get detailed technical difficulty analysis
               </p>
               <p className="mt-4 text-sm text-emerald-600">
-                Try: "Für Elise" or "Moonlight Sonata 3rd Movement"
+                Try: &quot;Für Elise&quot; or &quot;Moonlight Sonata 3rd Movement&quot;
               </p>
             </div>
           )}
