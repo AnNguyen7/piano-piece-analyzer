@@ -1,7 +1,8 @@
 {
-  "name": "ai-study-planner",
-  "version": "0.1.0",
+  "name": "piano-piece-analyzer",
+  "version": "1.0.0",
   "private": true,
+  "description": "AI-powered piano piece difficulty analyzer using prompt engineering patterns",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build --turbopack",
