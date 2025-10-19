@@ -17,7 +17,7 @@ export default function Home() {
     setAnalysisData(null);
 
     try {
-      const response = await fetch('/api/generate-chords', {
+      const response = await fetch('/api/analyze-piece', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
